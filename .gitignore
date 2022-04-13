@@ -1,0 +1,46 @@
+# Files
+http-client.private.env.json
+.DS_Store
+.swp
+*.iml
+.gradle
+.idea
+.sonar
+.classpath
+.settings
+.metadata
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+.cache
+.lock-wscript
+.npm
+.node_repl_history
+.vscode
+package-lock.json
+.project
+eslint-report.xml
+kafka_2.12-2.3.0
+
+# JS Directories
+node_modules
+lib-cov
+build/Release
+coverage
+bower_components
+dist
+
+#Java Directories
+classes
+out
+build
+bin
+.sts4-cache
+
+# Project Directories
+*/src/generated
+*/src/main/generated
+*/src/querydsl/
+*/src/generated/*
