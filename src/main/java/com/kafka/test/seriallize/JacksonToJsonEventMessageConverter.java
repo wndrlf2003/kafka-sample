@@ -19,9 +19,6 @@ import org.springframework.util.ClassUtils;
 import java.io.IOException;
 import java.lang.reflect.Type;
 
-/**
- * @author pyk@woowahan.com
- */
 public class JacksonToJsonEventMessageConverter extends MessagingMessageConverter {
 
     private final JsonToKafkaEventDtoSerializer jsonToKafkaEventDtoSerializer;
