@@ -1,4 +1,4 @@
-package com.kafka.test;
+package com.kafka.test.consumer;
 
 
 import com.kafka.test.event.dto.KafkaEventDto;
