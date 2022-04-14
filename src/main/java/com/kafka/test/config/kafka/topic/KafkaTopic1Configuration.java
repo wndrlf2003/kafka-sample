@@ -1,9 +1,9 @@
-package com.kafka.test.config;
+package com.kafka.test.config.kafka.topic;
 
 import com.kafka.test.producer.KafkaTopic1ProducerEvent;
 import com.kafka.test.producer.NOProducerEvent;
-import com.kafka.test.event.KafkaEventFactoryBeen;
-import com.kafka.test.event.KafkaProducerEvent;
+import com.kafka.test.config.kafka.KafkaEventFactoryBeen;
+import com.kafka.test.config.kafka.KafkaProducerEvent;
 import com.kafka.test.seriallize.JacksonToJsonEventMessageConverter;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;

@@ -1,7 +1,7 @@
 package com.kafka.test.producer;
 
-import com.kafka.test.event.KafkaProducerAsyncEvent;
-import com.kafka.test.event.KafkaProducerSyncEvent;
+import com.kafka.test.config.kafka.KafkaProducerAsyncEvent;
+import com.kafka.test.config.kafka.KafkaProducerSyncEvent;
 import com.kafka.test.event.dto.KafkaEventDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.InitializingBean;

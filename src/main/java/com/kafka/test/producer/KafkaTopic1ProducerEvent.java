@@ -1,6 +1,6 @@
 package com.kafka.test.producer;
 
-import com.kafka.test.event.KafkaProducerSyncEvent;
+import com.kafka.test.config.kafka.KafkaProducerSyncEvent;
 import com.kafka.test.event.dto.KafkaEventDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

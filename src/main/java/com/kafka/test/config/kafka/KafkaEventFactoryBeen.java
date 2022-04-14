@@ -1,4 +1,4 @@
-package com.kafka.test.event;
+package com.kafka.test.config.kafka;
 
 import com.kafka.test.event.dto.GenericKafkaEventDto;
 import com.kafka.test.event.dto.KafkaEventDto;
